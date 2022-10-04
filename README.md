@@ -3,13 +3,6 @@
 This is clone of BookMyShow.com.We have used HTML, CSS, Advance Javascript, React, Redux, Mongoose and MongoDB to acheive this.
 In this project we have tried to clone the “BookMyShow” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
 
-# Deployed Link:
-*https://bookmyshow-clone-eight.vercel.app/*
-# Blog Link: 
-*https://medium.com/@alokkumar-dev/bookmyshow-clone-website-78d5e03a27b4*
-# Repository Link:
-*https://github.com/alokkumar-dev/bookmyshow-clone/*
-
  
 # Snapshots
 
@@ -41,9 +34,4 @@ In this project we have tried to clone the “BookMyShow” website. We had buil
 
 5. All the data is stored in the back-end data of the User. 
 
-## Instructions to Run the Code 
 
-- Clone my repository `https://github.com/alokkumar-dev/bookmyshow-clone`
-- Open that code in your VS code `App.jsx`
-- Run the `App.jsx` on browser
-- Then you can Navigate through other pages from Landing page.
